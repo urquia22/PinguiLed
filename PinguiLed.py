@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """/*	---------------------------------------------------------------------
 	Pinguino example to control the activation and deactivation of three 
-	pins of the penguin borad 18f4550, through an interface developed in 
+	pins of the pinguino board 18f4550, through an interface developed in 
 	python with the tkinter library, by means of serial communication 
 	using the pynguino communication library CDC_8bit.pde to be seen in 
 	PinguiLed.py
@@ -27,7 +27,7 @@ from pynguino import PynguinoCDC
 from Tkinter import *     			#Import libraries // Importamos Librerias 
 pinguino = PynguinoCDC()			#This would be our pinguino board // Esta seria nuestra tarjeta pinguino 
 
-pinguino.pinMode(5, "OUTPUT")                   #Pins as output // Pines como salida pines
+pinguino.pinMode(5, "OUTPUT")                   #Pins as output // Pines como salida 
 pinguino.pinMode(6, "OUTPUT")
 pinguino.pinMode(7, "OUTPUT")
 
