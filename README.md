@@ -1,5 +1,5 @@
 # PinguiLed
-Interfacing  for controlling led lights with penguin board
+Python interfacing for controlling led lights with penguin board
 
 # Instructions
 Pinguino example to control the activation and deactivation of three pins of the penguin borad 18f4550, through an interface developed in python with the tkinter library, by means of serial communication using the pynguino communication library CDC_8bit.pde to be seen in PinguiLed.py
