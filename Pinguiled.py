@@ -4,13 +4,13 @@
 	pins of the penguin borad 18f4550, through an interface developed in 
 	python with the tkinter library, by means of serial communication 
 	using the pynguino communication library CDC_8bit.pde to be seen in 
-	InterfacePinguiled.py
+	Pinguiled.py
 
 	Ejemplo de Pinguino para controlar la activación y desactivación de 
 	tres pines de la pingüino borad 18f4550, a través de una interfaz
 	desarrollada en python con la biblioteca tkinter, mediante 
 	comunicación serial usando la biblioteca de comunicación pynguino 
-	CDC_8bit.pde para ser visto en InterfacePinguiled.py
+	CDC_8bit.pde para ser visto en Pinguiled.py
 
 
 	author			Angel Urquia 
