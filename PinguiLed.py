@@ -57,7 +57,7 @@ tabla = Frame(ven, width=260, height = 200)
 tabla.grid(row=0, column=0, padx=0, pady=0)
  
 # background image // imagen fondo
-img = PhotoImage(file="/home/angel/Imágenes/pinguino.gif") 
+img = PhotoImage(file="pinguino.gif") 
 marco1 = Canvas(tabla, width=258, height=195, bg='blue')
 marco1.grid(row=0, column=0, padx=5, pady=5)
  
