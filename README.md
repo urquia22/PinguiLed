@@ -23,7 +23,7 @@ Ejemplo de Pinguino para controlar la activación y desactivación de tres pines
 a) pip install pynguino.
 b) pip install pyserial.
 
-3) Cargue el archivo .pd en la Tarjeta Pinguino , CDC_8bit.pde de Yeison Cardona, https://bitbucket.org/yeisoneng/pynguino-2.0/raw/tip/pinguino/CDC/cdc_8bit.pde.
+3) Cargue el archivo.pde en la Tarjeta Pinguino , CDC_8bit.pde de Yeison Cardona, https://bitbucket.org/yeisoneng/pynguino-2.0/raw/tip/pinguino/CDC/cdc_8bit.pde.
 
 4) Conecte los diodos LED en los pines 5, 6 y 7.
 
