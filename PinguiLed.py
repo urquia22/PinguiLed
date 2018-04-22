@@ -29,7 +29,7 @@ from pynguino import PynguinoCDC
 from Tkinter import *     			#Import libraries // Importamos Librerias 
 pinguino = PynguinoCDC()			#This would be our pinguino board // Esta seria nuestra tarjeta pinguino 
  
-pinguino.pinMode(5, "OUTPUT")                   #Pins as output // Pines como salida pines
+pinguino.pinMode(5, "OUTPUT")                   #Pins as output // Pines como salida 
 pinguino.pinMode(6, "OUTPUT")
 pinguino.pinMode(7, "OUTPUT")
  
